@@ -40,7 +40,7 @@ const App =() => {
                 <div className='container'>
                     <header>
                         <div className='wrapper'>
-                            <span className='logo'>CONTENTFUL POC FOR ABC</span>
+                            <span className='logo'>CONTENTFUL POC FOR XYZ</span>
                         </div>
                     </header>
                     <main>
