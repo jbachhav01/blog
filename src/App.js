@@ -40,7 +40,7 @@ const App =() => {
                 <div className='container'>
                     <header>
                         <div className='wrapper'>
-                            <span className='logo'>React App and Contentful Data Provider</span>
+                            <span className='logo'>FIRST CONTENTFUL POC - PARKLAND</span>
                         </div>
                     </header>
                     <main>
