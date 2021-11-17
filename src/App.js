@@ -40,7 +40,7 @@ const App =() => {
                 <div className='container'>
                     <header>
                         <div className='wrapper'>
-                            <span className='logo'>FIRST CONTENTFUL POC - PARKLAND</span>
+                            <span className='logo'>FIRST CONTENTFUL POC</span>
                         </div>
                     </header>
                     <main>
